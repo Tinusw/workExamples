@@ -1,31 +1,32 @@
-Example 1 - Sidebar Toggle using pure CSS!
+Example 1 - Sidebar Toggle using pure CSS!  
 https://jsfiddle.net/0esfLscc/4/
 
 Implimented here : 
-https://ancient-ocean-10077.herokuapp.com/
-https://github.com/Tinusw/RubyEcommerceSite
+https://ancient-ocean-10077.herokuapp.com/  
+https://github.com/Tinusw/RubyEcommerceSite  
 
 
 - Just a cool example of how you can use the toggle state of a checkbox to trigger css position changes! No jquery needed.
 
-Example 2 - 
-http://designer-cut-30258.bitballoon.com/#workCont
+Example 2 - Using jquery simplify adding html elements  
+http://designer-cut-30258.bitballoon.com/#workCont    
 
-Implimented here :
-http://designer-cut-30258.bitballoon.com/#workCont
-https://github.com/Tinusw/ResponsiveWebsite
+Implimented here :  
+http://designer-cut-30258.bitballoon.com/#workCont  
+https://github.com/Tinusw/ResponsiveWebsite  
 
 - Using a jquery variable to store various fictional pieces of work, then using bootstrap to format it all nicely. And a small on mouse-enter effect for extra laughs.
 
 - Saves you having to manually add html elements for each new item on a site. Instead you can simply save them in an array, and jquery will populate it for you!
 
+- Combo that with bootstrap classes and you'll be able to update an informational site relatively stress free.
 
-Example 3 - Data Validation (Email form example)
-https://jsfiddle.net/uw188pdg/7/
+Example 3 - Data Validation (Email form example)  
+https://jsfiddle.net/uw188pdg/7/  
 
-Implimented here : 
-http://designer-cut-30258.bitballoon.com/#contactCont
-https://github.com/Tinusw/ResponsiveWebsite
+Implimented here :   
+http://designer-cut-30258.bitballoon.com/#contactCont  
+https://github.com/Tinusw/ResponsiveWebsite  
 
 - So really just a few more muscle flexing jquery ideas:
 
