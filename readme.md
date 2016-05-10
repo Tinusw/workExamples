@@ -1,30 +1,40 @@
 Example 1 - Sidebar Toggle using pure CSS!  
+====================
 https://jsfiddle.net/0esfLscc/4/
 
-Implimented here : 
+Implimented here :   
+---------------------
 https://ancient-ocean-10077.herokuapp.com/  
 https://github.com/Tinusw/RubyEcommerceSite  
 
 
-- Just a cool example of how you can use the toggle state of a checkbox to trigger css position changes! No jquery needed.
+- Just a cool example of how you can use the toggle state of a checkbox to trigger css position changes! Well....any changes actually. No jquery needed!
 
-Example 2 - Using jquery simplify adding html elements  
+- Only niggle I had to deal with is that you generally have to wrap the rest of your page content inside of one 'page-content' div so that content will shift to the side when you open the sidebar instead of covering content. Kinda irritating especially when you have a large project.
+
+- Thanks to Travis Neilson for turning me onto this though. (Check his youtube channel DevTips, honestly.)
+
+Example 2 - Using jquery to simplify adding html elements
+====================  
 http://designer-cut-30258.bitballoon.com/#workCont    
 
 Implimented here :  
+---------------------
 http://designer-cut-30258.bitballoon.com/#workCont  
 https://github.com/Tinusw/ResponsiveWebsite  
 
-- Using a jquery variable to store various fictional pieces of work, then using bootstrap to format it all nicely. And a small on mouse-enter effect for extra laughs.
+- Using a jquery varialbes to add content, and to add new divs with said content simply by adding to the var
 
 - Saves you having to manually add html elements for each new item on a site. Instead you can simply save them in an array, and jquery will populate it for you!
 
 - Combo that with bootstrap classes and you'll be able to update an informational site relatively stress free.
 
-Example 3 - Data Validation (Email form example)  
+Example 3 - Data Validation (Email form example)
+====================  
 https://jsfiddle.net/uw188pdg/7/  
 
-Implimented here :   
+Implimented here :  
+--------------------- 
 http://designer-cut-30258.bitballoon.com/#contactCont  
 https://github.com/Tinusw/ResponsiveWebsite  
 
